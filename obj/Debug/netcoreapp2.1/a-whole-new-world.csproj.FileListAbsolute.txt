@@ -1,0 +1,11 @@
+C:\Users\Halberd\sdg\unit-3\a-whole-new-world\bin\Debug\netcoreapp2.1\a-whole-new-world.deps.json
+C:\Users\Halberd\sdg\unit-3\a-whole-new-world\bin\Debug\netcoreapp2.1\a-whole-new-world.runtimeconfig.json
+C:\Users\Halberd\sdg\unit-3\a-whole-new-world\bin\Debug\netcoreapp2.1\a-whole-new-world.runtimeconfig.dev.json
+C:\Users\Halberd\sdg\unit-3\a-whole-new-world\bin\Debug\netcoreapp2.1\a-whole-new-world.dll
+C:\Users\Halberd\sdg\unit-3\a-whole-new-world\bin\Debug\netcoreapp2.1\a-whole-new-world.pdb
+C:\Users\Halberd\sdg\unit-3\a-whole-new-world\obj\Debug\netcoreapp2.1\a-whole-new-world.csprojAssemblyReference.cache
+C:\Users\Halberd\sdg\unit-3\a-whole-new-world\obj\Debug\netcoreapp2.1\a-whole-new-world.csproj.CoreCompileInputs.cache
+C:\Users\Halberd\sdg\unit-3\a-whole-new-world\obj\Debug\netcoreapp2.1\a-whole-new-world.AssemblyInfoInputs.cache
+C:\Users\Halberd\sdg\unit-3\a-whole-new-world\obj\Debug\netcoreapp2.1\a-whole-new-world.AssemblyInfo.cs
+C:\Users\Halberd\sdg\unit-3\a-whole-new-world\obj\Debug\netcoreapp2.1\a-whole-new-world.dll
+C:\Users\Halberd\sdg\unit-3\a-whole-new-world\obj\Debug\netcoreapp2.1\a-whole-new-world.pdb
